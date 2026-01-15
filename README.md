@@ -1,3 +1,6 @@
 # Example AI prompts for digital accessibility.
-The State of Maryland must meet updated ADA Title II standards by April 24, 2026. In The Department of Justice’s (Department) final rule updated its regulations for Title II of the Americans with Disabilities Act (ADA). In it, State and local governments with a population of 50,000 or more persons must make sure that their web content, electronic documents and mobile apps conform up to the Web Content Accessibility Guidelines (WCAG) 2.1 Success Criteria Level AA. 
-Maryland encourages state employees to create new content with AI that meets our standards for responsible AI use and accessibility. This repository shared prompts you can use to create accessible content using AI.
+The State of Maryland must meet updated ADA Title II standards by April 24, 2026. This is because The Department of Justice’s (Department) final rule updated its regulations for Title II of the Americans with Disabilities Act (ADA). 
+
+In it, State and local governments with a population of 50,000 or more persons must make sure that their web content, electronic documents and mobile apps conform up to the Web Content Accessibility Guidelines (WCAG) 2.1 Success Criteria Level AA. 
+
+Maryland encourages state employees to create new content with AI that meets our standards for responsible AI use and accessibility. This repository shares prompts you can use to create accessible content using AI.
